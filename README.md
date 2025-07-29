@@ -12,25 +12,26 @@
 
 - ✅ Add new tasks  
 - 📋 View all tasks  
-- ✏️ Edit/update existing tasks  
-- ❌ Delete a specific task  
-- 💾 Save tasks to a file  
-- 📂 Load tasks from a file (if implemented)
+- ✏️ Edit/update existing tasks (optional)  
+- ❌ Delete a specific task (optional)  
+- 💾 Save tasks to a file (optional)  
+- 📂 Load tasks from a file (optional)
 
 ---
 
 ## 🖥️ Technologies Used
 
 - Python (Standard Library)  
-- Optional: `tkinter` for GUI or CLI-based interaction
+- CLI-based interface  
+- Optional: `tkinter` for GUI version
 
 ---
 
 ## 📸 Screenshots
 
-> *(Add screenshots here if available)*  
-> ![Screenshot](./Screenshot_2025-07-29-10-13-00-03.jpg)  
-> ![Photo](./IMG_20250729_101410.jpg)
+> *(Include screenshots from your project folder)*  
+- `Screenshot_2025-07-29-10-13-00.jpg`  
+- `IMG_20250729_101410.jpg`
 
 ---
 
